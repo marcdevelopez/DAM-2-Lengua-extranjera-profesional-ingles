@@ -1,0 +1,29 @@
+Web design
+Web design is the process of planning the appearance and function of a website.
+
+Usability
+Usability is a measure of how easily something can be used.
+
+Search engine
+A search engine is a computer program that is used to locate information on the Internet.
+
+Visibility
+Visibility is a measure of how quickly and easily a website can be located.
+
+Web development
+Web development is the technical process of building a website.
+
+3D animation
+3D animation is the process of creating moving three-dimensional images and placing them into a digital context.
+
+Sprite
+Sprite sheet refers to an image that consists of several smaller images (sprites) and/or animations.
+Sprite is a computer graphic.
+
+Bitmap
+Bitmap is a representation in which each bit is associated with a pixel and can store images digitally.
+
+Idle
+Idle is the inactive state of a character or element.
+
+
