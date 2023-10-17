@@ -1,29 +1,57 @@
-Web design
+Web design:
 Web design is the process of planning the appearance and function of a website.
 
-Usability
+Usability:
 Usability is a measure of how easily something can be used.
 
-Search engine
+Search engine:
 A search engine is a computer program that is used to locate information on the Internet.
 
-Visibility
+Visibility:
 Visibility is a measure of how quickly and easily a website can be located.
 
-Web development
+Web development:
 Web development is the technical process of building a website.
 
-3D animation
+3D animation:
 3D animation is the process of creating moving three-dimensional images and placing them into a digital context.
 
-Sprite
+Sprite:
 Sprite sheet refers to an image that consists of several smaller images (sprites) and/or animations.
 Sprite is a computer graphic.
 
-Bitmap
+Bitmap:
 Bitmap is a representation in which each bit is associated with a pixel and can store images digitally.
 
-Idle
+Idle:
 Idle is the inactive state of a character or element.
 
+Markup language:
+A markup language is a system for displaying a webpage's content and formatting instructions, and is not seen in the final displayed version of the text.
 
+Hyperlink:
+A hyperlink is a link on a webpage that can be clicked to open another webpage.
+
+Website wireframe:
+A website wireframe is a framework or outline of a website's layout and navigational systems.
+
+Programming language:
+A programming language is a system of communication that tells a computer what to do, usually involving how to process or display information from a markup language.
+
+Web content management:
+A web content management system is software that allows people to create and manage webpages without extensive knowledge of programming and markup languages.
+
+Auto backup:
+Automatic backup saving system. Automatic backups are necessary in order to back up stored data.
+
+Backup:
+a copy of data made in case the original is lost or damaged.
+
+Software:
+Software: it is a set of computer programs used to operate computers and execute specific tasks.
+
+Track view:
+it is a tracking area that contains the last known locations and tracks.
+
+SketchFab:
+SketchFab: It is a 3D modality platform website that allows users to visualise 3D objects and online animation.
