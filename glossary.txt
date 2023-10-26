@@ -54,4 +54,24 @@ Track view:
 it is a tracking area that contains the last known locations and tracks.
 
 SketchFab:
-SketchFab: It is a 3D modality platform website that allows users to visualise 3D objects and online animation.
+It is a 3D modality platform website that allows users to visualise 3D objects and online animation.
+
+Broadcast design: is the art of designing station identifiers, logos, titles, and other media for use on television.
+
+Motion design: is the discipline practiced by designers who create moving graphics either for titles or for graphic elements.
+
+An optical house: is a studio of designers who create titles and trailers.
+
+Kinetic: If an image is kinetic, it is an image that has motion.
+
+A bumper: is a short promotional sequence designed to run between two television programs.
+
+Morpher: it refers to the tool used for the conversion of one object into another. Using the Morpher tool makes it very easy to create simple animations like facial animations. The way in which the morpher tool creates these animations is that you create multiple copies of the head object and modify it to show the finished emotion you want to be animated.
+
+IK or Inverse Kinematic: is the technique to determine the movement of a chain of joints to maintain the final joint located in a specific position.
+
+FK or Forward Kinematic: is the technique used by the computer to calculate the position of the parts of a structure according to their joints.
+
+Soft Bodies: Soft bodies, normally used to define the simulation of the behaviour of soft bodies that will represent effects.
+
+Animation chart: showing a series of states displayed sequentially or in groups one after the other.
