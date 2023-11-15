@@ -75,3 +75,27 @@ FK or Forward Kinematic: is the technique used by the computer to calculate the 
 Soft Bodies: Soft bodies, normally used to define the simulation of the behaviour of soft bodies that will represent effects.
 
 Animation chart: showing a series of states displayed sequentially or in groups one after the other.
+
+Mobile gaming: is a format of video gaming which can be played on cell phones or other mobile devices.
+
+Arcade: An arcade is a business that runs a variety of coin-operated games.
+
+3D modeling: is a process which allows video game designers to represent three-dimensional objects on a screen.
+
+Polygon: A polygon is a basic shape which is used as a building element in digital video game design.
+
+Motion capture: is a technique in which actors wear special suits that capture their movements in a way that can be used to animate digital characters in video games or movies.
+
+Mask: normally defines the areas where an action will have influence. A common use of a Mask is to show a small section of a large Image, using say a Panel object as a "frame".
+
+Masking: allows you to discard some of the animation data within a clip, allowing the clip to animate only parts of the object or character rather than the entire thing.
+
+Blending: Mixing between several possible animations or poses.
+
+Blend: Transition from one animation to another animation smoothly and seamlessly, such as blending a character’s walking and running animations according to the character’s speed.
+
+Ragdoll: is a configuration of a human character to display how physics affects the state of its body. Ragdoll physics are a set of colliders, rigid bodies and joints that you can apply to a humanoid character, to simulate behaviour such as impact collisions and character death.
+
+Colliders: are simply the defined regions where gameObjects are solid to other gameObjects.
+
+
